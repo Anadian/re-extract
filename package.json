@@ -1,0 +1,35 @@
+{
+  "name": "re-extract",
+  "version": "0.0.1",
+  "description": "A simple package to extract multiple named-matches from a larger text via regular expressions.",
+  "main": "source/main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "./source/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anadian/re-extract.git"
+  },
+  "keywords": [
+    "re",
+    "regular",
+    "expressions",
+    "extraction",
+    "regex",
+    "text",
+    "object",
+    "named",
+    "free",
+    "libre",
+    "open",
+    "mit"
+  ],
+  "author": "Anadian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anadian/re-extract/issues"
+  },
+  "homepage": "https://github.com/Anadian/re-extract#readme"
+}
